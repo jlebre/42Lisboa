@@ -46,6 +46,9 @@ A minimal UNIX shell, supporting command execution, pipes, and environment varia
 ### 🔹 [42 Cub3d](https://github.com/jlebre/42Cub3d)  
 A **Wolfenstein 3D-style** raycasting game built with MiniLibX.  
 
+### 🔹 [42 NetPractice](https://github.com/jlebre/42NetPractice)  
+A practical networking project designed to help you discover and configure small-scale networks by understanding TCP/IP addressing.  
+
 ---
 
 ## 🏅 RANK 5  
@@ -54,6 +57,9 @@ An introduction to C++ programming, focusing on **Object-Oriented Programming (O
 
 ### 🔹 [42 IRC](https://github.com/jlebre/42IRC)  
 A fully functional **IRC server**, handling multiple clients and commands.  
+
+### 🔹 [42 Inception](https://github.com/jlebre/42Inception)  
+A Docker-based system administration project, deploying a multi-container infrastructure inside a virtual machine with Nginx, MariaDB, and WordPress, following security best practices.  
 
 ---
 
@@ -65,8 +71,8 @@ The final boss of 42! A **full-stack web application**, combining **NestJS, Reac
 
 ### 🔗 **More About My 42 Journey**  
 💼 **LinkedIn**: [https://linkedin.com/in/jose-maria-lebre/](https://www.linkedin.com/in/jose-maria-lebre/)  
-📧 **Email**: josemariamlebre@gmail.com  
+📧 **Email**: josemariamlebre@gmail.com   
+🔗 **My 42 Advanced Path**: [https://github.com/jlebre/42Advanced](https://github.com/jlebre/42Advanced)  
 
 ---
-
 If you're also a **42 student** or just interested in these projects, feel free to check them out, suggest improvements, or reach out! 🚀  
